@@ -1,5 +1,9 @@
 # Algorithms
-This repository contains solutions from archived Algorithm problems of Project Euler.
-<br>url = https://projecteuler.net/archives
+This repository contains various solutions for Algorithm Problems
+<br>**Project Euler**
+<br>This file contains solutions from Project Euler.
+<br>url = 'https://projecteuler.net/archives'
+<br> **BaekJoon**
+<br>This file contains solutions from BaekJoon
+<br>url = 'https://www.acmicpc.net/'
 <br>All problems are solved with Python 3.
-<br>Mathematics is super cool :star_struck: and hateful :tired_face: at the same time. 
