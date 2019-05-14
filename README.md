@@ -6,4 +6,4 @@ This repository contains various solutions for Algorithm Problems
 <br> **BaekJoon**
 <br>This file contains solutions from BaekJoon
 <br>url = 'https://www.acmicpc.net/'
-<br>All problems are solved with Python 3.
+<br>All problems are solved with Python 3. :crying_cat_face:
