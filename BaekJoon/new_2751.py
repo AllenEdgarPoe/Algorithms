@@ -34,3 +34,5 @@ newContainer = mergeSorting(nums)
 
 for i in newContainer:
     print(i)
+
+   
